@@ -14,6 +14,7 @@ I'm always on the lookout for new technologies that help me create more meaningf
 
 ## 🌐 Socials:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseleonnalvarte)
+[![Website Badge](https://img.shields.io/badge/Website-%23000000.svg?logo=internetexplorer&logoColor=white)](https://phenomenal-medovik-ee2422.netlify.app)
 
 ## 💻 Tech Stack:
 ![CSS3 Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
