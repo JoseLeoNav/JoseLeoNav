@@ -1,4 +1,7 @@
-# Hi, I'm Jose 👋
+
+<p align="center">
+    <h1 align="center">Hi I'm Jose</h1>
+</p>
 
 I'm a Junior Web Developer with an unstoppable enthusiasm for creating great things 🚀. My passion for web development shines through in crafting attractive and functional websites, where front-end development sparks my artistic side 🎨, while back-end development allows me to build flawless logic behind the scenes 🔧.
 
