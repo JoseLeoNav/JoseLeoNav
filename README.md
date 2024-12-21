@@ -3,7 +3,9 @@
     <h1 align="center">Hi I'm Jose</h1>
 </p>
 <h3 align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Junior+Web+Developer%E2%9C%A8%E2%9C%A8"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Junior+Web+Developer🚀🚀&font_color=4c2882">
+</a>
+
 </h3>
 
 I'm a Junior Web Developer with an unstoppable enthusiasm for creating great things 🚀. My passion for web development shines through in crafting attractive and functional websites, where front-end development sparks my artistic side 🎨, while back-end development allows me to build flawless logic behind the scenes 🔧.
